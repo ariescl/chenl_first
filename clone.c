@@ -4,6 +4,6 @@ int a;
 printf("pleased to input your number:\n");
 scanf("%d",&a);
 if(a>13)
-printf("you are good!");
+printf("you are good!have good life~");
 return 0;
 }
