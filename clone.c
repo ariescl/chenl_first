@@ -3,7 +3,7 @@ int main(){
 int a;
 printf("pleased to input your number:\n");
 scanf("%d",&a);
-if(a>13)
+if(a>11)
 printf("you are good!have good life~");
 return 0;
 }
