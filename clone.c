@@ -6,6 +6,6 @@ scanf("%d",&a);
 if(a>11)
 printf("you are good!have good life~");
 printf("this is the first attempt of diffrient branchs");
-printf("this is the feature1");
+printf("the feature1 in develop:the author choose the develop branch to use");
 return 0;
 }
